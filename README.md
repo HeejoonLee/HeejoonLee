@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me: heejoon1130@gmail.com
 
-- Academic experience
+- Academic Experience
     - Bachelor of Science in Electrical and Computer Engineering @ Seoul National University (Grad. '21)
 
 - Work Experience

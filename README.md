@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HeejoonLee
-- 👀 I’m interested in C, C++, Python, Verilog, FPGA, Linux, Deep Learning, Computer Vision, Embedded Software
+- 👀 I’m interested in C, C++, Python, Rust, Verilog, FPGA, Linux, Deep Learning, Computer Vision, Embedded Software
 - 🌱 I’m currently learning SLAM, kernel, drivers
 - 💞️ I’m looking to collaborate on deep learning, computer vision projects
 - 📫 How to reach me: heejoon1130@gmail.com

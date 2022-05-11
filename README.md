@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeejoonLee
-- 👀 I’m interested in programming, deep learning, embedded software engineering
-- 🌱 I’m currently learning Rust, AWK, blockchain, Linux kernel
-- 💞️ I’m looking to collaborate on deep learning projects
+- 👀 I’m interested in C, C++, Python, Verilog, FPGA, Linux, Deep Learning, Computer Vision, Embedded Software
+- 🌱 I’m currently learning SLAM, kernel, drivers
+- 💞️ I’m looking to collaborate on deep learning, computer vision projects
 - 📫 How to reach me: heejoon1130@gmail.com
 
 - Academic Experience
